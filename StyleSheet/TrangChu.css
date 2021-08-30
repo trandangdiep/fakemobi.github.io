@@ -166,8 +166,9 @@ h4, p {
 }
 
 .kichcophai {
-    width: 95%;
+    width: 56%;
     height: 230px;
+    float:right;
 }
 
 .img {
