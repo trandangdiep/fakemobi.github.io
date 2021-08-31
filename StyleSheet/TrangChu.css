@@ -315,3 +315,6 @@ a:hover, a:focus {
     color: #666666;
     font-size: 12px;
 }
+.sizemenu{
+    width:123%;
+}
